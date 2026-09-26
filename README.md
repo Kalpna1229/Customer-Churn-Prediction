@@ -141,3 +141,24 @@ Customer-Churn-Prediction/
 ├── Customer_Churn_Prediction.ipynb
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 └── README.md
+```
+---
+
+## 📌 Conclusion
+
+This project demonstrates how machine learning can be used to predict
+customer churn and analyze customer behavior.
+
+A Logistic Regression model was developed after performing data
+preprocessing and exploratory analysis.
+
+The resulting insights can help businesses understand churn patterns
+and support data-driven customer retention strategies.
+
+---
+
+## 👩‍💻 Author
+
+Kalpna Singh
+
+Aspiring Data Analyst | Python | Data Analytics | Power BI | Excel
